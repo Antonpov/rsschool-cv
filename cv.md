@@ -25,7 +25,7 @@ Hello. My name is Anton. I am 30. I work in a factory. I don't really like my pr
 
 * Code-basics - HTML for beginners
 * Code-basics - CSS for beginners
-* Learning english language on Duolingo
+* Learning english language on  Duolingo
 
 ## Code examples ##
 
@@ -36,6 +36,6 @@ Hello. My name is Anton. I am 30. I work in a factory. I don't really like my pr
    }
 ```
 
-   ## English language ##
+## English language ##
 
 A1++
