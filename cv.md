@@ -29,10 +29,12 @@ Hello. My name is Anton. I am 30. I work in a factory. I don't really like my pr
 
 ## Code examples ##
 
+``` 
 #content {
     width: 500px; /* Ширина блока */
     margin: 0 auto 50px; /* Выравнивание блока по центру */
    }
+```
 
    ## English language ##
 
